@@ -46,7 +46,7 @@
    :page/vars []
    :page/xrpc? true
    :page/relative-path
-   "60-apps/etzhayyim-project-cloudflare-browser-render/appview/etzhayyim-wasm-cloudflare-browser-render-cfbr0w53/cljs/src/etzhayyim/wasm/cfbr/app.cljs"})
+   "60-apps/etzhayyim-project-cloudflare-browser-render/appview/etzhayyim-wasm-cloudflare-browser-render-cfbr0w53/cljs/src/etzhayyim/wasm/cfbr/app.cljk"})
 
 (rf/reg-event-db
  :initialize-db
