@@ -15,7 +15,7 @@
  :deps {org.clojure/clojure {:mvn/version "1.12.0"}
         ;; Pinned to the sha okaimono's landed, building cljs migration uses —
         ;; an explicit floor proven by a repo that already builds, not an
-        ;; arbitrary choice. See CLAUDE.md's "kotoba-uiux" skill for the
+        ;; arbitrary choice. See AGENTS.md's "kotoba-uiux" skill for the
         ;; jp-go-dds bridge/token contract this floor keeps working.
         io.github.kotoba-lang/jp-go-digital-design-system
         {:git/url "https://github.com/kotoba-lang/jp-go-digital-design-system.git"
